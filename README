@@ -1,0 +1,11 @@
+A program to do extremely mediocre composition according to arbitrary sets of
+rules.
+
+To build, simply
+$ make
+
+To run,
+$ ./philomena bassline_file rule_file
+
+Instructions for writing bassline files and rule files can be found at
+http://www.jacobandreas.net/2007/philomena
